@@ -4,5 +4,5 @@
 <h2> Deploy the code using Anisble playbook on Docker container </h2>
 <h2> THIS IS FINAL TESTING </h2>
 <h2> testing with the githook trigger </h2>
-<h2> vilas testing </h2>
+<h2> testing with Newman testing tool </h2>
 
